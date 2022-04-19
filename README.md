@@ -5,7 +5,10 @@
 
 :white_check_mark: HTML <br />
 :white_check_mark: CSS <br />
-:white_check_mark: Javascript
+:white_check_mark: Javascript <br />
+:white_check_mark: Bootstrap <br />
+:white_check_mark: Java <br />
+:white_check_mark: Angular <br />
 
 
 ## Ícones
