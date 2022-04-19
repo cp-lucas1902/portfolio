@@ -1,4 +1,4 @@
-# portfólio
+# Portfólio
 :computer: Desenvolvimento de um portfólio estruturado em um site, com a funcionalidade de organizar o meu perfil profissional. 
 
 ## Tecnologias
